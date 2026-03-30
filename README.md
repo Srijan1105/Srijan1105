@@ -157,12 +157,6 @@
 
 ---
 
-# 🏆 GitHub Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Srijan1105)
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
