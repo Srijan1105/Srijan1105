@@ -174,6 +174,14 @@
 
 ---
 
+# 💻 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Srijan1105?theme=dark&font=baloo"/>
+</p>
+
+---
+
 # 🐍 Contribution Snake Animation
 
 <p align="center">
