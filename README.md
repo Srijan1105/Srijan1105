@@ -131,7 +131,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Srijan1105&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Srijan1105&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -147,7 +147,7 @@
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan1105&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan1105&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -155,7 +155,7 @@
 # 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Srijan1105&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Srijan1105&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
