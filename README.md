@@ -11,22 +11,22 @@
 
 🎓 B.Tech CSE (Data Science) — Techno Main Salt Lake  
 📊 CGPA: 8.07  
-💡 Passionate about AI, Data Science & Full Stack Development  
-🚀 Building Real World Projects  
+💡 Passionate about Data Science, AI & Full Stack Development  
+🚀 Building Real-World Projects  
 
 ---
 
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Srijan1105&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Srijan1105&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+## 👨‍💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-### Frontend
+## 🌐 Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,19 +42,43 @@
 
 ---
 
-### Data Science
+## ⚙️ Backend
 
-Pandas • NumPy • Scikit-learn • TensorFlow • Seaborn • Matplotlib
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+## 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 Data Science & ML
+
+Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • TensorFlow
+
+---
+
+## 🧰 Tools
+
+![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
 ## ✈️ Airline Management System
-Java + MySQL based airline booking system
+Java + MySQL airline booking system
 
 ## 🎯 Pathfinder Career Guidance
-Flask based recommendation system
+Flask-based career recommendation platform
 
 ## 📈 Retail Sales Forecasting
 Machine Learning forecasting model
@@ -63,15 +87,15 @@ Machine Learning forecasting model
 
 # 💼 Experience
 
-Data Science & Machine Learning Intern  
-📍 Info-tact Solutions (2 Months)
+📍 Data Science & Machine Learning Intern  
+Info-tact Solutions (2 Months)
 
 ---
 
 # 🏆 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Srijan1105&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Srijan1105&show_icons=true&theme=radical&cache_seconds=1800"/>
 </p>
 
 ---
@@ -79,7 +103,7 @@ Data Science & Machine Learning Intern
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Srijan1105&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Srijan1105&theme=radical"/>
 </p>
 
 ---
@@ -87,7 +111,7 @@ Data Science & Machine Learning Intern
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan1105&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan1105&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -95,7 +119,7 @@ Data Science & Machine Learning Intern
 # 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Srijan1105&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Srijan1105&theme=radical"/>
 </p>
 
 ---
@@ -103,15 +127,7 @@ Data Science & Machine Learning Intern
 # 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srijan1105&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Srijan1105/Srijan1105/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srijan1105&theme=react-dark"/>
 </p>
 
 ---
@@ -119,31 +135,24 @@ Data Science & Machine Learning Intern
 # 💻 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Srijan1105?theme=dark&font=baloo"/>
-</p>
-
----
-
-# 📄 Resume
-
-<p align="center">
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge"/>
-</a>
+<img src="https://leetcard.jacoblin.cool/dassrijan76"/>
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-📧 dassrijan76@gmail.com  
-📍 Kolkata, India  
-
 🌐 Portfolio  
 https://portfolio-srijan-das.vercel.app/
 
 💻 GitHub  
 https://github.com/Srijan1105
+
+💻 LeetCode  
+https://leetcode.com/dassrijan76/
+
+📧 Email  
+dassrijan76@gmail.com
 
 ---
 
