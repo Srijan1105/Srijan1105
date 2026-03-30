@@ -160,7 +160,7 @@
 # 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srijan1105&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy-git-master-rishavchanda.vercel.app/?username=Srijan1105&theme=radical" />
 </p>
 
 ---
