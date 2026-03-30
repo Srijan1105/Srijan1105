@@ -1,101 +1,130 @@
-<h1 align="center">
-Hi 👋, I'm Srijan Das
-</h1>
-
-<h3 align="center">
-AI Developer | Full Stack Developer | Problem Solver
-</h3>
+<h1 align="center">Hi 👋, I'm Srijan Das</h1>
+<h3 align="center">Computer Science Engineer | Data Science | AI & Full Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Student;AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Science Student  
-💡 Passionate about AI, Machine Learning & Full Stack Development  
-🚀 Building Real-World Projects  
-⭐ 5 Star in Python, Java & C (HackerRank)  
-🌱 Currently Learning System Design & AI  
+🎓 B.Tech Computer Science Engineering (Data Science)  
+🏫 Techno Main Salt Lake (2022–2026)  
+📊 CGPA: 8.07  
+
+💡 Passionate about:
+- Data Science  
+- Machine Learning  
+- Full Stack Development  
+- AI Based Applications  
+
+🚀 Strong in Data Structures, Algorithms & Problem Solving
 
 ---
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+## ⚡ Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### ⚡ Frontend
+## 🔧 Backend & Frameworks
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-### 🔧 Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-### 🗄️ Database
+## 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-# 🔥 Featured Projects
+## 📊 Data Science & ML
 
-## 🌾 Smart Farming Assistant
-• AI-based Crop Recommendation  
-• Weather Forecast  
-• Soil Health Analysis  
-• Farmer Marketplace  
-
-**Tech:** Spring Boot | MongoDB | AI
-
----
-
-## 🎵 Facial Recognition Music System
-• Mood-based Music  
-• Gesture Controls  
-• Multi-User Recognition  
-• AI Recommendation  
-
-**Tech:** React | Flask | AI
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- TensorFlow  
 
 ---
 
-## 🧠 Mind Buddy (Mental Health AI)
+# 🚀 Featured Projects
 
-• Mood Tracking  
-• Chat Assistant  
-• CBT Exercises  
-• Breathing Techniques  
+## ✈️ Airline Management System
 
-**Tech:** Python | Flask
+• Java + MySQL based system  
+• Automated airline booking & scheduling  
+• Centralized data management  
+• Improved operational efficiency  
+
+**Tech:** Java | MySQL
 
 ---
 
-## 📈 IPL Winner Prediction
+## 🎯 Pathfinder – Career Guidance Web App
 
-• Data Analysis (2008-2024)  
-• Feature Engineering  
-• Ensemble Model  
+• Personalized career recommendations  
+• Decision-support system  
+• Dynamic PDF report generation  
 
-**Tech:** Python | ML
+**Tech:** Flask | HTML | CSS | JavaScript
+
+---
+
+## 📈 Retail Sales Forecasting
+
+• Machine Learning forecasting model  
+• EDA & Feature Engineering  
+• RMSE & R² evaluation  
+
+**Tech:** Python | Pandas | Scikit-learn
+
+---
+
+# 💼 Experience
+
+## Data Science & Machine Learning Intern
+📍 Info-tact Solutions  
+⏱️ 2 Months Internship  
+
+• Worked on Data Science projects  
+• Applied Machine Learning techniques  
+• Gained real-world project experience
+
+---
+
+# 📜 Certifications
+
+✔ Database Management System — Infosys  
+✔ Programming in Java — NPTEL  
+
+---
+
+# 🧠 Core Skills
+
+✔ Data Structures & Algorithms  
+✔ Object Oriented Programming  
+✔ Database Management System  
+✔ Machine Learning  
+✔ Data Analysis  
 
 ---
 
@@ -123,7 +152,7 @@ AI Developer | Full Stack Developer | Problem Solver
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophy
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Srijan1105&theme=onedark"/>
@@ -131,28 +160,13 @@ AI Developer | Full Stack Developer | Problem Solver
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srijan1105&theme=tokyo-night"/>
-</p>
-
----
-
-# 🚀 Current Focus
-
-✔ AI Projects  
-✔ Full Stack Development  
-✔ Open Source Contribution  
-✔ System Design  
-
----
-
 # 📫 Connect With Me
 
 📧 Email: dassrijan76@gmail.com  
-🌐 Portfolio:  
-https://portfolio-srijan-normgt4jh-srijan1105s-projects.vercel.app/
+📍 Kolkata, India  
+
+🌐 Portfolio  
+https://portfolio-srijan-das.vercel.app/
 
 💻 GitHub  
 https://github.com/Srijan1105
